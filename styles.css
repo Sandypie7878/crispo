@@ -48,7 +48,7 @@ header nav ul li a:hover {
 }
 
 .hero {
-  background-image: url(https://github.com/Sandypie7878/crispo/blob/main/shsh.jpg?raw=true);  /* Updated path */
+  background-image: src(https://github.com/Sandypie7878/crispo/blob/main/shsh.jpg?raw=true);  /* Updated path */
   background-size: cover;
   background-position: center;
   color: #000000;
